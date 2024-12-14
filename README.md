@@ -1,0 +1,2 @@
+# cgpa-calculator
+basic project
